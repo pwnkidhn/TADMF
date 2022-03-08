@@ -4,6 +4,11 @@ TADMF is Windows Kernel API Fuzzer
 #### made by team JJ
 - - -
 
+## Architecture
+
+![아키텍쳐](https://user-images.githubusercontent.com/49066484/157186779-3f403eb2-7630-4379-af06-649c8e6f20b9.png)
+
+---
 
 ## How to Build/Run?
 
@@ -77,6 +82,7 @@ TADMF is Windows Kernel API Fuzzer
 ### 2. using detect.py (arrange in proper length)
 ### 3. using generate.py (make Cpp code)
 
+---
 
 ## Demo
 
